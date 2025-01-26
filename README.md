@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning how to write documentation that even my future self can understand ;).<br>📬 Feel free to reach me out via <a href="https://x.com/CodedInSigma" target="_blank" rel="noopener noreferrer"> Twitter </a> or connect with me on <a href="https://x.com/CodedInSigma" target="_blank" rel="noopener noreferrer"> LinkedIn </a><br>🎲 Fun fact: I’ve watched every episode of The Office at least five times—my coding playlist is just Dwight quotes.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning how to write documentation that even my future self can understand ;).<br>📬 Feel free to reach me out via <a href="https://x.com/CodedInSigma" target="_blank" rel="noopener noreferrer"> Twitter </a> or connect with me on <a href="https://www.linkedin.com/in/mriganka-paul-b3049b1ba" target="_blank" rel="noopener noreferrer"> LinkedIn </a><br>🎲 Fun fact: I’ve watched every episode of The Office at least five times—my coding playlist is just Dwight quotes.</p>
 
 ###
 
